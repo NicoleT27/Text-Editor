@@ -31,7 +31,7 @@ npm install
 
 ## Deployed-application-link
 
-
+https://text-editor11-27-2023-6317f71f947f.herokuapp.com/
 
 
 
